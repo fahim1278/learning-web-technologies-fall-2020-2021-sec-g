@@ -1,0 +1,32 @@
+<INFO>
+   <INFO_1>
+       <SL> 23 </SL>
+       <NAME> John Carter</NAME>
+       <Admission>
+           <Date> 25 </Date>
+           <Month> 12 </Month>
+           <Year> 2015 </Year>
+       </Admission>
+   </INFO_1>
+   
+   <INFO_2>
+       <SL> 29 </SL>
+       <NAME> Bob Marshal</NAME>
+       <Admission>
+           <Date> 13 </Date>
+           <Month> 01 </Month>
+           <Year> 1999 </Year>
+       </Admission>
+   </INFO_2>
+   
+   <INFO_3>
+       <SL> 35 </SL>
+       <NAME> Clark Kent</NAME>
+       <Admission>
+           <Date> 17 </Date>
+           <Month> 06 </Month>
+           <Year> 2005 </Year>
+       </Admission>
+   </INFO_3>
+    
+</INFO>
